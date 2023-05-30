@@ -4,7 +4,6 @@ def countcharacters(str):
     c=0
     s=0
     n=0
-
     for x in str:
         if x.isalpha():
             c=c+1
